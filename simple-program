@@ -1,4 +1,7 @@
 #!/bin/bash
+#author : harshith
+#
+#This program prints hello world with date
 
 # Print Hello, World!
 echo "Hello, World!"
