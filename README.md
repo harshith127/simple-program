@@ -1,2 +1,2 @@
 # simple-program
-shell scripting program
+hello world shell scripting program
