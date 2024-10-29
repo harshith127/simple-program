@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Print Hello, World!
+echo "Hello, World!"
+
+# Print the current date
+echo "Today is: $(date)"
+
